@@ -1,6 +1,6 @@
 Name:		texlive-multiple-choice
 Version:	63722
-Release:	1
+Release:	2
 Summary:	LaTeX package for multiple-choice questions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multiple-choice
