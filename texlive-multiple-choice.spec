@@ -3,7 +3,7 @@ Version:	63722
 Release:	2
 Summary:	LaTeX package for multiple-choice questions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/multiple-choice
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/multiple-choice
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multiple-choice.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/multiple-choice.doc.r%{version}.tar.xz
